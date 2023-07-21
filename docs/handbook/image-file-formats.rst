@@ -859,7 +859,7 @@ PPM
 ^^^
 
 Pillow reads and writes PBM, PGM, PPM and PNM files containing ``1``, ``L``, ``I`` or
-``RGB`` data.
+``RGB`` data. Only the RAWBITS variants (P4, P5, P6) are supported.
 
 SGI
 ^^^
